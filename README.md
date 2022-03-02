@@ -17,7 +17,7 @@ Comandos para projeto NODE
 - Executar projeto
 	nodemon index.js
 
-- COnfigurar a view engine
+- configurar a view engine
 
 - criar acesso a arquivos estáticos
 
@@ -28,3 +28,9 @@ Comandos para projeto NODE
 - criar banco de dados no mysql
  
 - criar conexão com banco de dados
+
+- Configurar bootstrap
+	https://getbootstrap.com.br/docs/4.1/getting-started/download/
+	baixar css e js
+	add partials ao projeto com os scripts do bootstrap no header e footer
+
